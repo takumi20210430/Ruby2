@@ -1,0 +1,2 @@
+name = "タクミ"
+puts name
